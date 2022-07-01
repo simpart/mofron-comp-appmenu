@@ -1,0 +1,29 @@
+{
+  "name": "mofron-comp-appmenu",
+  "version": "0.0.1",
+  "description": "application menu component for mofron",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/simpart/mofron-comp-appmenu.git"
+  },
+  "dependencies": {
+    "mofron-comp-image": "",
+    "mofron-comp-frame": "",
+    "mofron-effect-fadepack": "",
+    "mofron-event-clkfocus": ""
+  },
+  "keywords": [
+    "mofron",
+    "front-end"
+  ],
+  "author": "simparts",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/simpart/mofron-comp-appmenu/issues"
+  },
+  "homepage": "https://github.com/simpart/mofron-comp-appmenu#readme"
+}
